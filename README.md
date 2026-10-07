@@ -16,7 +16,7 @@ I turn raw data into clear insights and business decisions using Excel, Power BI
 
 ## 🔗 Live site
 
-[Add your Vercel link here]
+ https://parimala-portfolio.vercel.app/
 
 ##  Built with
 
